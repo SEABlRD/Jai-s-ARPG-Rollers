@@ -4,7 +4,9 @@ Howdy!! Thanks so much for downloading my rollers resource! I highly recommend t
 if you are choosing to use this open-source roller code. I used the most basic possible options for this framework, so that problems and questions
 can be easily looked up online. 
 
-To use and edit these rollers, please have a text or code editing software on hand! I like the ATOM software, since it's free and easy to understand.
+To use and edit these rollers, have a Git software (ex. Github, Sourcetree, Fork, etc) ready and clone/pull the remote. In case I ever edit anything to the source,
+you will be able to fetch and pull the changes as well! 
+Please have a text or code editing software on hand! I like the ATOM software, since it's free and easy to understand.
 I like Neocities.org for my rollers, because they allow you to upload files quicky and easily to a website, and they also have their own built-in editor.
 
 Please understand that, outside of glaring issues or bugs that are directly related to my rollers and NOT a product of user editing, 
