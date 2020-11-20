@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/game-die_1f3b2.png">
+    <title>RNG Geno</title>
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+         <script src="rngmath.js"></script>
+    <link href="rollerstyle.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1 id="heading"><a href="/">RNG Geno Roller</a></h1>
+
+    <div id="container">
+
+      <div id="Bbox">
+        <h2>Rarity Type:</h2>
+            <br><input id="Common" type="radio" class="noselect" name="rarity" value="Common" checked="checked">
+              <label for="Common">Common</label>
+            <input id="Uncommon" type="radio" class="noselect" name="rarity" value="Uncommon">
+              <label for="Uncommon">Uncommon</label>
+            <input id="Rare" type="radio" class="noselect" name="rarity" value="Rare" >
+              <label for="Rare">Rare</label>
+              <p>Breed:
+              <p><input id="Random" type="radio" class="noselect" name="breed" value="Random" checked="checked">
+                <label for="Random">Random</label>
+              <input id="Breed 1" type="radio" class="noselect" name="breed" value="Breed 1" >
+                <label for="Breed 1">Breed 1</label>
+              <input id="Breed 2" type="radio" class="noselect" name="breed" value="Breed 2" >
+                <label for="Breed 2">Breed 2</label>
+              <input id="Breed 3" type="radio" class="noselect" name="breed" value="Breed 3" >
+                <label for="Breed 3">Breed 3</label>
+
+          <p><div id="randomizer" class="noselect"><p id="button-txt"><b>ROLL</b></p></div>
+          <div id="mark-count"><text id="total">0 common | 0 uncommon | 0 rare</text></div>
+
+        <div id="results-holder">
+            <text id="Gender1"></text>
+            <text id="Bodytype1"></text>
+            <text id="Breed1"></text>
+          <br><text id="Status1"></text><text id="Health1"></text>
+          <br><text id="Aspect1"></text>
+            <text id="Power1"></text>
+          <br><text id="Basecolour1"></text>
+            <text id="Genotype1"></text>
+          <br><text id="Markmut1"></text>
+            <text id="Phenobase1"></text>
+              <text id="Phenotype1"></text>
+          <br><text id="Mutation1"></text>
+        </div>
+
+    </div>
+</div>
+    <div id="creditbox">
+      <text id="credits">
+        <img src="https://cdn.discordapp.com/emojis/749416236697518101.gif?v=1">
+        Coded by <a href="http://deviantart.com/seablrd">Seabird</a>
+      </text>
+    </div>
+
+  </body>
+</html>

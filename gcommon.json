@@ -1,0 +1,33 @@
+{
+	"cGenes": [{
+			"rec": "n1",
+			"dom": "11",
+			"phen": "One"
+		},
+		{
+			"rec": "n2",
+			"dom": "22",
+			"phen": "Two"
+		},
+		{
+			"rec": "n3",
+			"dom": "33",
+			"phen": "Three"
+		},
+		{
+			"rec": "n4",
+			"dom": "44",
+			"phen": "Four"
+		},
+		{
+			"rec": "n5",
+			"dom": "55",
+			"phen": "Five"
+		},
+		{
+				"rec": "n6",
+				"dom": "66",
+				"phen": "Six"
+		}
+	]
+}

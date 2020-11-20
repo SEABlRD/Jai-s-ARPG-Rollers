@@ -1,0 +1,236 @@
+body {
+  background: grey;
+  background-position: top;
+  background-size: cover;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 14px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+#heading{
+  text-align: center;
+  text-shadow: 3px 2px dimgrey;
+  color: black;
+}
+#container{
+  position: relative;
+  float: center;
+}
+.inBox{
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  width: 300px;
+  padding: 10px;
+  height: auto;
+  background: gainsboro;
+  border-radius: 5px;
+  overflow: hidden;
+}
+#Pbox{
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  width: 300px;
+  padding: 10px;
+  height: auto;
+  background: gainsboro;
+  border-radius: 5px;
+  overflow: hidden;
+}
+#Bbox{
+  position: relative;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  width: 300px;
+  padding: 10px;
+  height: 440px;
+  background: gainsboro;
+  border-radius: 5px;
+  overflow: hidden;
+}
+#form-content{
+  float: center;
+  margin-top: 5px;
+}
+#results-holder{
+  position: relative;
+  height: 360px;
+  padding: 10px;
+  margin-right: -10px;
+  text-align: left;
+  font-size: 12px;
+  overflow-y: auto;
+  overflow-wrap: break-word;
+  color: black;
+}
+#mark-count{
+  position: relative;
+  padding: 5px;
+  height: 20px;
+  border-bottom: 2px solid black;
+}
+
+#randomizer{
+  position: relative;
+  height: 35px;
+  background: darkgrey;
+  outline-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  clear: left;
+  top: auto;
+  bottom: 0;
+}
+#button-txt{
+  position: relative;
+  line-height: 35px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 0px;
+}
+#button-txt:hover{
+  background: dimgrey;
+  border-radius: inherit;
+  cursor: pointer;
+  color: white;
+}
+
+hr{
+  margin: 10px;
+  border: 1px solid black;
+}
+
+hr.new{
+  margin: 5px;
+  border: 0.5px dashed grey;
+}
+
+.left, .right{
+  position: relative;
+  width: 50%;
+  text-align: center;
+}
+
+h1{
+  margin: 15px;
+  font-family: Georgia;
+}
+h2{
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-family: Georgia;
+}
+h4{
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
+a{
+  color: black;
+}
+
+input[type="radio"]{
+  display: none;
+}
+input[type="radio"] + label{
+  background-color: white;
+  border: 1px solid dimgrey;
+  padding: 5px;
+}
+input[type="radio"] + label:hover{
+  background: grey;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+input[type="radio"]:checked + label{
+  background: grey;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+input[type="checkbox"]{
+  display: none;
+}
+input[type="checkbox"] + label{
+  background-color: white;
+  border: 1px solid dimgrey;
+  border-radius: 5px;
+  padding: 5px;
+}
+input[type="checkbox"] + label:hover{
+  background: grey;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+input[type="checkbox"]:checked + label{
+  background: grey;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+.left{
+  position: relative;
+  width: 50%;
+  float: left;
+}
+.right{
+  float: right;
+}
+
+.sire-container, .dam-container{
+  position: relative;
+  height: 30px;
+  width: 50%;
+  float: left;
+  background: blue;
+  margin: 20px;
+}
+.sire-container > *, .dam-container > *{
+  float: left;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */.
+}
+
+#creditbox{
+  position: relative;
+  width: 150px;
+  align-self: center;
+  margin: 0;
+  bottom: 0;
+}
+#credits{
+  position: inherit;
+  width: 150px;
+  height: 6px;
+  border-radius: 5px;
+  padding: 5px;
+  background: darkgrey;
+  opacity: 0.8;
+  border-radius: 5px;
+  font-size: 10px;
+  color: black;
+  bottom: 0;
+  left: 0;
+}

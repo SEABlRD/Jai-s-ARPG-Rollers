@@ -1,0 +1,49 @@
+{
+  "gen": [
+    {
+      "success": " stalked their prey with the patience of generations of hunters past.",
+      "fail": " got distracted mere minutes after being sent out, completely forgetting the hunt."
+    },
+    {
+      "success": " pursued their prey relentlessly, until they finally had it in their claws.",
+      "fail": " wasn't fast enough this time, and their prey escaped."
+    },
+    {
+      "success": " tracked their prey across many miles, demonstrating remarkable skill.",
+      "fail": " was not able to pick up any fresh scent trails, and ended up going in circles."
+    }
+  ],
+
+  "one": [
+    {
+      "success": " traversed scorching terrain, showing great resilience and determination, to catch this.",
+      "fail": " burned their pawpads on the hot ground and was unable to continue."
+    },
+    {
+      "success": " braved the arid climate and found some easy prey weakened from dehydration.",
+      "fail": " collapsed from heatstroke and had to be summoned home."
+    }
+  ],
+
+  "two": [
+    {
+      "success": " plunged beneath the surface and revealed a hidden talent for swimming. They also caught this.",
+      "fail": " made a splash, but wasn't able to catch anything."
+    },
+    {
+      "success": " dove into the water and surfaced, dripping from head to toe, with an armful of prey.",
+      "fail": " nearly drowned in the deeper water, crawling ashore soaked and empty-handed."
+    }
+  ],
+
+  "three": [
+    {
+      "success": " camouflaged so well into their surroundings, their prey never saw them coming until it was too late.",
+      "fail": " accidentally kicked a rock, causing their prey to spook and run away."
+    },
+    {
+      "success": " used every aspect of the terrain to their advantage, dropping onto their prey from above.",
+      "fail": " stuck their foot in a hole and tripped, falling flat on their face."
+    }
+  ]
+}

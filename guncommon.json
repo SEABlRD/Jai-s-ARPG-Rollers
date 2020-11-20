@@ -1,0 +1,19 @@
+{
+	"uGenes": [
+		{
+			"rec": "n7",
+			"dom": "77",
+			"phen": "Seven"
+		},
+		{
+			"rec": "n8",
+			"dom": "88",
+			"phen": "Eight"
+		},
+		{
+			"rec": "n9",
+			"dom": "99",
+			"phen": "Nine"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+  "gen": [
+    {
+      "success": " scoured for loot like a professional treasure hunter and found this impressive haul.",
+      "fail": " tried as hard as they could, but they found nothing worth taking."
+    },
+    {
+      "success": " found a hidden cache and grabbed all of its contents. Like taking candy from a baby.",
+      "fail": " stumbled across a good stash, but was chased off by its owner for trying to steal it."
+    },
+    {
+      "success": " spotted something interesting from afar, and upon closer inspection it turned out to be this.",
+      "fail": " thought they saw something good, but it wasn't worth it when they saw it up close."
+    }
+  ],
+
+  "one": [
+    {
+      "success": " found this under the soot and sand and carefully dusted it off. It's still warm to the touch.",
+      "fail": " picked something up, but it crumbled to ash in their grasp."
+    },
+    {
+      "success": " saw a glimmer in the flames, and reached into the sweltering heat to retrieve this.",
+      "fail": " stuck their paw into the fire trying to grab something, and got burned for their troubles."
+    }
+  ],
+
+  "two": [
+    {
+      "success": " fished up lots of weeds and mud, but it all payed off when they finally found this.",
+      "fail": " reeled in a soggy boot. You probably wouldn't want that, so they tossed it back in."
+    },
+    {
+      "success": " channeled their inner pirate and plundered all this booty. Yo ho, yo ho, a pirate's life for me!",
+      "fail": " wasn't able to find anything good. Alas, when you look at water everything is shiny."
+    }
+  ],
+
+  "three": [
+    {
+      "success": " excavated this treasure with precision and dexterity, a budding archeologist.",
+      "fail": " tried to extract something gently, but accidentally smashed a hole through it."
+    },
+    {
+      "success": " dug up many bits and bobs, proving the existence of ancient civilizations. Oh, they also found this.",
+      "fail": " fell into an open dig site, messing up the excavation in progress."
+    }
+  ]
+}

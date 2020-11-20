@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/game-die_1f3b2.png">
+    <title>Breeding</title>
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+         <script src="breedingmath.js"></script>
+         <script src="calculations.js"></script>
+    <link href="rollerstyle.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1 id="heading"><a href="/">Breeding Roller</a></h1>
+
+    <div id="container">
+      <div id="Pbox">
+        <div id="form-holder">
+          <h2>Parent Info:</h2>
+          <hr>
+          <div id="form-content">
+            <div id="sire-container">
+            <text>Sire Info:</text>
+              <input class="P1" id="P1" type="textbox" placeholder="Paste Sire geno here" required>
+              <p><select id="sire-breed">
+                <option>Breed</option>
+                <option style="background-color:gainsboro">Breed 1</option>
+                <option style="background-color:darkgrey">Breed 2</option>
+                <option style="background-color:dimgrey">Breed 3</option>
+              </select>
+              <select id="sire-Bodytype">
+                <option>Bodytype</option>
+                <option>Type 1</option>
+                <option>Type 2</option>
+                <option>Type 3</option>
+              </select>
+              <select id="sire-Aspect">
+                <option>Aspect</option>
+                  <option>Aspect 1</option>
+                  <option>Aspect 2</option>
+                  <option>Aspect 3</option>
+              </select>
+            </div>
+            <hr class="new">
+            <div id="dam-container">
+            <p>Dam Info:
+              <input class="P2" id="P2" type="textbox" placeholder="Paste Dam geno here" required></p>
+              <p><select id="dam-breed">
+                <option>Breed</option>
+                <option style="background-color:gainsboro">Breed 1</option>
+                <option style="background-color:darkgrey">Breed 2</option>
+                <option style="background-color:dimgrey">Breed 3</option>
+              </select>
+              <select id="dam-Bodytype">
+                <option>Bodytype</option>
+                <option>Type 1</option>
+                <option>Type 2</option>
+                <option>Type 3</option>
+              </select>
+              <select id="dam-Aspect">
+                <option>Aspect</option>
+                <option>Aspect 1</option>
+                <option>Aspect 2</option>
+                <option>Aspect 3</option>
+              </select>
+            </div>
+            <hr class="new">
+            <p><input type="checkbox" id="rank"></input><label for="rank">Is either parent Base Rank?</label>
+            <p><input type="checkbox" id="inbred"></input><label for="inbred">Inbreeding present?</label>
+          </div>
+        </div>
+        <p><div id="randomizer" class="noselect"><p id="button-txt"><b>ROLL</b></p></div>
+    </div>
+
+        <div id="Bbox">
+          <h2>Breeding Result:</h2>
+          <hr>
+        <div id="results-holder">
+          <text id="errortext1"></text>
+          <strong><text id="Baby1"></strong>
+            <text id="Gender1"></text>
+            <text id="Bodytype1"></text>
+            <text id="Breed1"></text>
+          <br><text id="Status1"></text><text id="Health1"></text>
+          <br><text id="Aspect1"></text>
+            <text id="Power1"></text>
+            <text id="Genotype1"></text><text id="Chimgeno1"></text>
+          <br><text id="Markmut1"></text>
+              <text id="Phenotype1"></text><text id="Chimpheno1"></text>
+          <br><text id="Mutation1"></text>
+
+          <p><strong><text id="Baby2"></text></strong>
+            <text id="Gender2"></text>
+            <text id="Bodytype2"></text>
+            <text id="Breed2"></text>
+          <br><text id="Status2"></text><text id="Health2"></text>
+          <br><text id="Aspect2"></text>
+            <text id="Power2"></text>
+            <text id="Genotype2"></text><text id="Chimgeno2"></text>
+          <br><text id="Markmut2"></text>
+              <text id="Phenotype2"></text><text id="Chimpheno2"></text>
+          <br><text id="Mutation2"></text>
+
+          <p><strong><text id="Baby3"></text></strong>
+            <text id="Gender3"></text>
+            <text id="Bodytype3"></text>
+            <text id="Breed3"></text>
+          <br><text id="Status3"></text><text id="Health3"></text>
+          <br><text id="Aspect3"></text>
+            <text id="Power3"></text>
+            <text id="Genotype3"></text><text id="Chimgeno3"></text>
+          <br><text id="Markmut3"></text>
+              <text id="Phenotype3"></text><text id="Chimpheno3"></text>
+          <br><text id="Mutation3"></text>
+        </div>
+    </div>
+</div>
+    <div id="creditbox">
+      <text id="credits">
+        <img src="https://cdn.discordapp.com/emojis/749416236697518101.gif?v=1">
+        Coded by <a href="http://deviantart.com/seablrd">Seabird</a>
+      </text>
+    </div>
+
+  </body>
+</html>

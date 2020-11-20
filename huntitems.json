@@ -1,0 +1,63 @@
+{
+	"common": [
+		{
+			"name": "Common hunt 1",
+			"desc": "Common hunt 1 description",
+			"thumb": "n/a"
+		},
+		{
+      "name": "Common hunt 2",
+			"desc": "Common hunt 2 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Common hunt 3",
+			"desc": "Common hunt 3 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Common hunt 4",
+			"desc": "Common hunt 4 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Common hunt 5",
+			"desc": "Common hunt 5 description",
+			"thumb": "n/a"
+		}
+	],
+  "uncommon": [
+		{
+			"name": "Uncommon hunt 1",
+			"desc": "Uncommon hunt 1 description",
+			"thumb": "n/a"
+		},
+		{
+      "name": "Uncommon hunt 2",
+			"desc": "Uncommon hunt 2 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Uncommon hunt 3",
+			"desc": "Uncommon hunt 3 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Uncommon hunt 4",
+			"desc": "Uncommon hunt 4 description",
+			"thumb": "n/a"
+		}
+	],
+  "rare": [
+		{
+			"name": "Rare hunt 1",
+			"desc": "Rare hunt 1 description",
+			"thumb": "n/a"
+		},
+		{
+      "name": "Rare hunt 2",
+			"desc": "Rare hunt 2 description",
+			"thumb": "n/a"
+		}
+	]
+}

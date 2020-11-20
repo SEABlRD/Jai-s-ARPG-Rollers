@@ -1,0 +1,63 @@
+{
+	"common": [
+		{
+			"name": "Common scav 1",
+			"desc": "Common scav 1 description",
+			"thumb": "n/a"
+		},
+		{
+      "name": "Common scav 2",
+			"desc": "Common scav 2 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Common scav 3",
+			"desc": "Common scav 3 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Common scav 4",
+			"desc": "Common scav 4 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Common scav 5",
+			"desc": "Common scav 5 description",
+			"thumb": "n/a"
+		}
+	],
+  "uncommon": [
+		{
+			"name": "Uncommon scav 1",
+			"desc": "Uncommon scav 1 description",
+			"thumb": "n/a"
+		},
+		{
+      "name": "Uncommon scav 2",
+			"desc": "Uncommon scav 2 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Uncommon scav 3",
+			"desc": "Uncommon scav 3 description",
+			"thumb": "n/a"
+		},
+    {
+			"name": "Uncommon scav 4",
+			"desc": "Uncommon scav 4 description",
+			"thumb": "n/a"
+		}
+	],
+  "rare": [
+		{
+			"name": "Rare scav 1",
+			"desc": "Rare scav 1 description",
+			"thumb": "n/a"
+		},
+		{
+      "name": "Rare scav 2",
+			"desc": "Rare scav 2 description",
+			"thumb": "n/a"
+		}
+	]
+}
