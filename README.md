@@ -16,7 +16,6 @@ If you are using this free resource, it is with the understanding that you are o
 Additionally, please do not take money or commissions to edit my roller frameworks for other people. I do not intend to persecute people who may do this
 but it's still rude and disrespectful to me, as I already offer this resource for free or as commissions, myself.
 
-If you are interested in commissioning me for a roller, please visit my comm page: 
-https://www.deviantart.com/seablrd/journal/Jai-s-ARPG-Rollers-FREE-code-or-commissions-860982037
+If you are interested in commissioning me for a roller, please visit my comm page: https://seabirdtestroller.neocities.org/rollercomms.html
 
 Thank you for understanding!
