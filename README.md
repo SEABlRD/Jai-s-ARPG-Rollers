@@ -12,6 +12,7 @@ I like Neocities.org for my rollers, because they allow you to upload files quic
 Please understand that, outside of glaring issues or bugs that are directly related to my rollers and NOT a product of user editing, 
 I will not be providing free support to rollers that were not made by me (via commissions, or gifts for friends). 
 If you are using this free resource, it is with the understanding that you are on your own from here on out!
+StackOverflow is excellent for reference if you are having problems or are less experienced with coding! http://stackoverflow.com
 
 Additionally, please do not take money or commissions to edit my roller frameworks for other people. I do not intend to persecute people who may do this
 but it's still rude and disrespectful to me, as I already offer this resource for free or as commissions, myself.
