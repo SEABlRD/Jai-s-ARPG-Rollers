@@ -1,6 +1,6 @@
 # Jai's ARPG Rollers
 
-Howdy!! Thanks so much for downloading my rollers resource! I highly recommend that you have at least a functional understanding of HTML, CSS, and Javascript 
+Howdy!! Thanks so much for downloading my rollers resource! I highly recommend that you have at least a functional understanding of HTML, CSS, JSON, and Javascript/JQuery 
 if you are choosing to use this open-source roller code. I used the most basic possible options for this framework, so that problems and questions
 can be easily looked up online. 
 
